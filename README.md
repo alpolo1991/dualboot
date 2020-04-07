@@ -1,4 +1,4 @@
-# DualBoot
+# DualBoot - Windows -- Linux -- Arch linux -- Debian -- Ubunto -- Fedora
 
 #Tuve el mismo problema después de instalar Arch. Los siguientes comandos me #funcionaron perfectamente:
 
