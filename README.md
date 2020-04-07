@@ -17,7 +17,9 @@ mount -t ntfs-3g -o ro /dev/sda4 /media/windows
 -------/////////////---------------
 
 Si el método os-prober anterior no funciona, intente agregar una entrada de menú grub personalizada. 
-Documentación https://help.ubuntu.com/community/Grub2/CustomMenus
+Documentación:
+https://wiki.archlinux.org/index.php/GRUB_(Espa%C3%B1ol)#Archivo_grub.cfg_personalizado
+https://help.ubuntu.com/community/Grub2/CustomMenus
 
 1) Los primeros dos pasos son para encontrar su <UUID>.
 
